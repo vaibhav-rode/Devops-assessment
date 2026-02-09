@@ -1,2 +1,2 @@
 # Devops-assessment
-Aws as nginx webpage hosted in private instance with ALB
+Aws as nginx webpage hosted in 2 private instance with ALB
